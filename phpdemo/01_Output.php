@@ -22,9 +22,9 @@
 - Variables are case-sensitive ($name and $NAME are two different variables)
 */
 
-// echo "Hello ryan";
-// echo "<br>"; 
-// echo 123;
+echo "Hello ryan";
+echo "<br>"; 
+echo 123;
 
 // echo '<h1>Hello</h1>';
 
